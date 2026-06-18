@@ -1,8 +1,7 @@
 ---
-name: gem-template-spec
+name: template-spec
 description: System Directive and Implementation Guide template for AI Coding Agents.
 ---
-
 # Project: {{PROJECT_NAME}} — {{PROJECT_TAGLINE}}
 
 **System Directive & Implementation Guide for AI Coding Agent**

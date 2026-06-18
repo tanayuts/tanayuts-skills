@@ -1,6 +1,6 @@
 ---
 name: security-testing
-description: Security vulnerability checklist and testing strategy guidelines.
+description: Security vulnerability checklist (OWASP, injection, auth, CORS) and test plan strategy (unit/integration/E2E).
 ---
 # Security & Testing
 

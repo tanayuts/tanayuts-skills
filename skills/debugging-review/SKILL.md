@@ -1,8 +1,7 @@
 ---
 name: debugging-review
-description: Systematic 4-step debugging mantra and RCA post-mortem writing guide.
+description: Systematic debugging mantra, post-mortem (RCA) writing, and Scrutinize PR review.
 ---
-
 # Debugging & Review
 
 ## Debug Mantra

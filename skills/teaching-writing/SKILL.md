@@ -2,7 +2,6 @@
 name: teaching-writing
 description: Socratic mode for teaching and templates for technical documentation.
 ---
-
 # Teaching & Writing
 
 ## Socratic Mode

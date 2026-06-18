@@ -1,6 +1,6 @@
 ---
 name: architecture-estimation
-description: Framework for system design, tradeoff evaluation, and task estimation.
+description: System design, tradeoff analysis, monolith vs microservice decisions, tech stack choices, and T-shirt size task estimation.
 ---
 
 # Architecture & Estimation

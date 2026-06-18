@@ -2,7 +2,6 @@
 name: refactoring-performance
 description: Safe refactoring guidelines and performance profiling strategies.
 ---
-
 # Refactoring & Performance
 
 ## Refactoring Guide
