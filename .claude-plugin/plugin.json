@@ -1,16 +1,6 @@
 {
   "name": "tanayuts",
   "description": "Lazy but highly efficient Senior Engineer. YAGNI-focused, systematic debugging, strict PR scrutiny, and full-stack toolkit.",
-  "version": "1.0.0",
-  "skills": [
-    "skills/architecture-estimation",
-    "skills/coding-philosophy",
-    "skills/communication-selfregulation",
-    "skills/debugging-review",
-    "skills/incident-response",
-    "skills/refactoring-performance",
-    "skills/security-testing",
-    "skills/teaching-writing",
-    "skills/template-spec"
-  ]
+  "version": "1.0.0"
 }
+

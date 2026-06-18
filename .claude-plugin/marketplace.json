@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "tanayuts-skills",
+  "owner": {
+    "name": "tanayuts",
+    "email": "tanayutsanponmuang@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "tanayuts",
+      "description": "Lazy but highly efficient Senior Engineer. YAGNI-focused, systematic debugging, strict PR scrutiny, and full-stack modular toolkit.",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ]
+}
